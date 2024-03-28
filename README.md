@@ -2,10 +2,6 @@ Oleksandr Havrylenko
 Mob.:  +38(093)069-83-24
 E-mail:  gavrylenko.aleksandr@gmail.com
 
-OBJECTIVE
-
-To obtain a position as a Senior Software Engineer, DevOps
-
 SUMMARY OF SKILLS
 
 Java EE, Akka, GWT, Maven, Sbt, Gradle, Oracle, Mysql, Cassandra, JPA/Hibernate, JDBC, Spring, Spring Integration, Spring Data, Spring MVC, JSP, LiquiBase, Play, HTML5, CSS3, jQuery, bootstrap; 
